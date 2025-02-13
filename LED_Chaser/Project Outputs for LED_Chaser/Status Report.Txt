@@ -1,0 +1,29 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [LED_Chaser.PrjPcb]
+   Generated File[LED_Chaser.GTO]
+   Generated File[LED_Chaser.GTP]
+   Generated File[LED_Chaser.GTS]
+   Generated File[LED_Chaser.GTL]
+   Generated File[LED_Chaser.GBL]
+   Generated File[LED_Chaser.GBS]
+   Generated File[LED_Chaser.GBP]
+   Generated File[LED_Chaser.GM1]
+   Generated File[LED_Chaser.GM5]
+   Generated File[LED_Chaser.GM13]
+   Generated File[LED_Chaser.GM15]
+   Generated File[LED_Chaser.GM16]
+   Generated File[LED_Chaser.GKO]
+   Generated File[LED_Chaser.GPT]
+   Generated File[LED_Chaser.GPB]
+   Generated File[LED_Chaser.GD1]
+   Generated File[LED_Chaser.GG1]
+   Generated File[LED_Chaser.GM]
+   Generated File[LED_Chaser.EXTREP]
+   Generated File[LED_Chaser.REP]
+
+
+Files Generated   : 20
+Documents Printed : 0
+
+Finished Output Generation At 05:22:31 ?.? On 11/02/2025

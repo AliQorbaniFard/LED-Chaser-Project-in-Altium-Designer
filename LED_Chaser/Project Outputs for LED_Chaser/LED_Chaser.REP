@@ -1,0 +1,279 @@
+*************************************************************
+FileName = LED_Chaser.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Component Center
+      File : LED_Chaser.GM16
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : LED_Chaser.GM15
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D12
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : LED_Chaser.GM13
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D12
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : LED_Chaser.GM5
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : LED_Chaser.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : LED_Chaser.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : LED_Chaser.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : LED_Chaser.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : LED_Chaser.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : LED_Chaser.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : LED_Chaser.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : LED_Chaser.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : LED_Chaser.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : LED_Chaser.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : LED_Chaser.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : LED_Chaser.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : LED_Chaser.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : LED_Chaser.GM
+
+
+Used DCodes :
+    D38
+*************************************************************
+
