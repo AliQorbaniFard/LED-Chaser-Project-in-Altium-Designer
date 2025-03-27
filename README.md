@@ -21,4 +21,4 @@ Schematics: Comprehensive schematics of the LED chaser circuit.<br>
 PCB Layout: Completed PCB layout design ready for manufacturing.<br></h4>
 
 step by step video tutorial: https://www.youtube.com/watch?v=Zna8eKR376M&t=66s
-For any questions or feedback, feel free to reach out to me at [aliqorbanif@gmail.com].
+- For any questions or feedback, feel free to reach out to me at [aliqorbanif@gmail.com].
